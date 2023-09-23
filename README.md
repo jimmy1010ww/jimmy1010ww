@@ -1,5 +1,11 @@
-### Hi there 👋
+# About Me👨‍💻
+I'm Jimmy, a senior studying Information Engineering at National Taiwan University of Science and Technology (NTUST), and although I'm not very good at coding, I do enjoy it! Whenever I succeed in completing a function or a screen that I have imagined in my head using my own code, I get a great sense of accomplishment!
 
+---
+
+
+
+## 📊 &nbsp;Stats
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 <!--
