@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww)](https://github.com/anuraghazra/github-readme-stats)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww&show_icons=true&theme=vision-friendly-dark)
 
 <!--
 **jimmy1010ww/jimmy1010ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
