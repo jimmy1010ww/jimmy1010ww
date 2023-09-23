@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww&show_icons=true&theme=vision-friendly-dark)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 <!--
 **jimmy1010ww/jimmy1010ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
