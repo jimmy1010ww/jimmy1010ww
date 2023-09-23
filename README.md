@@ -7,7 +7,7 @@ I'm Jimmy, a senior studying Information Engineering at National Taiwan Universi
 
 ## 📊 &nbsp;Stats
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy1010ww&show_icons=true&theme=vision-friendly-dark&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy1010ww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jimmy1010ww/jimmy1010ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
